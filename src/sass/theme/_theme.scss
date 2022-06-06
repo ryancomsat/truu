@@ -1,1 +1,10 @@
 // This is an empty scss file for your custom styles - Please add your super duper awesome mega design styles here
+$primary: #795efd;
+$seconadary: #0b1a38;
+
+
+.bg-gradient{
+    background-color:#5c5cff;
+    background-image:-webkit-gradient(linear,left top,right top,from(#5c5cff),to(#8960ff));
+    background-image:linear-gradient(90deg,#5c5cff,#8960ff)
+}
